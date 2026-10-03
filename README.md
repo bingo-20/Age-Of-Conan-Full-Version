@@ -243,4 +243,4 @@ This repository serves as the official landing page for Age of Conan. The softwa
 **Get the most recent version of Age of Conan today!**
 
 ---
-**Last updated:** 2026-10-03 15:05:55 UTC
+**Last updated:** 2026-10-03 19:08:43 UTC
